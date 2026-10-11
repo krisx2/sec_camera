@@ -1,0 +1,9 @@
+.env
+snapshots/
+__pycache__/
+*.pyc
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+infra/lambda/alert.zipinfra/lambda/alert.zip
